@@ -1,0 +1,2 @@
+H:\GJAMING\DEV\TestProject\TestProject\GNomeRunner\GNomeRunner\Saved\StagedBuilds\WindowsNoEditor\GNomeRunner\Binaries\Win64\GNomeRunner.exe ../../../GNomeRunner/GNomeRunner.uproject /Game/Menu/MainMenu -stdout -abslog="C:\Users\Ar\AppData\Roaming\Unreal Engine\AutomationTool\Logs\H+programs+UE4+UE_4.27\Client.log" -Fullscreen
+ -CrashForUAT -SessionId=AFA963E44CD16302451E3687AE54557A -SessionOwner="Ar" -SessionName="Launch On Device"
