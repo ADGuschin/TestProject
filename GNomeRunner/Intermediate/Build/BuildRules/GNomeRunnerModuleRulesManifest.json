@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"H:\\GJAMING\\DEVELOPEMENT\\TestProject\\GNomeRunner\\Source\\GNomeRunner\\GNomeRunner.Build.cs",
+		"H:\\GJAMING\\DEVELOPEMENT\\TestProject\\GNomeRunner\\Source\\GNomeRunner.Target.cs",
+		"H:\\GJAMING\\DEVELOPEMENT\\TestProject\\GNomeRunner\\Source\\GNomeRunnerEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GNomeRunner",
+			"Path": "H:\\GJAMING\\DEVELOPEMENT\\TestProject\\GNomeRunner\\Source\\GNomeRunner.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GNomeRunnerEditor",
+			"Path": "H:\\GJAMING\\DEVELOPEMENT\\TestProject\\GNomeRunner\\Source\\GNomeRunnerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
